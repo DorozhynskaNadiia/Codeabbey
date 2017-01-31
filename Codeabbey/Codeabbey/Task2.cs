@@ -10,6 +10,10 @@ namespace Codeabbey
     {
         public static void Run()
         {
+            /*
+             * http://www.codeabbey.com/index/task_view/sums-in-loop
+             */
+
             int n = Convert.ToInt32(Console.ReadLine());                    // declare integer n and write converted value from console to n
 
             string[] numbersArray = Console.ReadLine().Split(' ');          // write splited numbers from console to string array
