@@ -9,10 +9,14 @@ namespace Codeabbey
     {
         static void Main(string[] args)
         {
-            Task1.Run();
-            Task2.Run();
-          
-            Console.ReadKey();          //wait for any key
+            //Task1.Run();
+            //Task2.Run();
+            //Task3.Run();
+            //SwapNumbersTask.Run();
+            //LoopsTask.Run();
+            //CharsTask.Run();
+            AdvancedChars.Run();
+            Console.ReadKey();        
         }
     }
 }

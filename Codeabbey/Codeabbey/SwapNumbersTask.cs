@@ -26,7 +26,8 @@ namespace Codeabbey
             b = a;
             a = c;
 
-            Console.WriteLine("Swaped values: A = {0}, B = {1}", a, b);
+            var pattern = "Swaped values: A = {0}, B = {1}";
+            Console.WriteLine(pattern, a, b);
             Console.ReadKey();
 
         }
