@@ -25,13 +25,14 @@ namespace Codeabbey
              * 52 lines 26(*2) columns
              */
 
-            var n = 30;
+
+            var n = 25;
             for (var row = 0; row < n; row++)
             {
                 for (var column = 0; column < n; column++)
                 {
                     char character;
-                    if (column  >=  row)
+                    if (column >= row)
                     {
                         character = 'X';
                     }

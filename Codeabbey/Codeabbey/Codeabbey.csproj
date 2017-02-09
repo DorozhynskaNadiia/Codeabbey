@@ -42,6 +42,7 @@
     <Compile Include="LoopsTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleArrays.cs" />
     <Compile Include="SwapNumbersTask.cs" />
     <Compile Include="Task1.cs" />
     <Compile Include="Task2.cs" />

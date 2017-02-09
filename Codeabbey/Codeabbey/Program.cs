@@ -16,6 +16,7 @@ namespace Codeabbey
             //LoopsTask.Run();
             //CharsTask.Run();
             AdvancedChars.Run();
+            //SimpleArrays.Run();
             Console.ReadKey();        
         }
     }
