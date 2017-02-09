@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="AdvancedChars.cs" />
     <Compile Include="CharsTask.cs" />
+    <Compile Include="DigitsTask.cs" />
     <Compile Include="LoopsTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

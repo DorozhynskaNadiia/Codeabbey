@@ -15,8 +15,9 @@ namespace Codeabbey
             //SwapNumbersTask.Run();
             //LoopsTask.Run();
             //CharsTask.Run();
-            AdvancedChars.Run();
+            //AdvancedChars.Run();
             //SimpleArrays.Run();
+            DigitsTask.Run();
             Console.ReadKey();        
         }
     }
