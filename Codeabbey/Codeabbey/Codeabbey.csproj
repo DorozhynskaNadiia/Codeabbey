@@ -37,17 +37,17 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdvancedChars.cs" />
-    <Compile Include="CharsTask.cs" />
-    <Compile Include="DigitsTask.cs" />
-    <Compile Include="LoopsTask.cs" />
+    <Compile Include="Tasks\AdvancedChars.cs" />
+    <Compile Include="Tasks\CharsTask.cs" />
+    <Compile Include="Tasks\DigitsTask.cs" />
+    <Compile Include="Tasks\LoopsTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SimpleArrays.cs" />
-    <Compile Include="SwapNumbersTask.cs" />
-    <Compile Include="Task1.cs" />
-    <Compile Include="Task2.cs" />
-    <Compile Include="Task3.cs" />
+    <Compile Include="Tasks\SimpleArrays.cs" />
+    <Compile Include="Tasks\SwapNumbersTask.cs" />
+    <Compile Include="Tasks\Task1.cs" />
+    <Compile Include="Tasks\Task2.cs" />
+    <Compile Include="Tasks\Task3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
