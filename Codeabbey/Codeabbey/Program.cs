@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Codeabbey
+namespace Codeabbey.Tasks
 {
     class Program
     {
@@ -16,8 +16,9 @@ namespace Codeabbey
             //LoopsTask.Run();
             //CharsTask.Run();
             //AdvancedChars.Run();
-            SimpleArrays.Run();
+            //SimpleArrays.Run();
             //DigitsTask.Run();
+            StudyingArray.Run();
             Console.ReadKey();        
         }
     }
