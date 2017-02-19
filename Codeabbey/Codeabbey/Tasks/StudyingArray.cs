@@ -10,12 +10,27 @@ namespace Codeabbey.Tasks
     {
         public static void Run()
         {
+            //List<int> numbers = new List<int>();
+            //numbers.Add(34);
+            //numbers.Add(46);
 
-            string[] names = new string[3] {
-                "Tom", "Jerry", "Lewis"
-            };
+            //for (int i = 0; i < numbers.Count; i++)
+            //{
 
-            int[] array = new int[5];
+            //    Console.WriteLine(numbers[i]);
+            //}
+
+
+
+
+            //string[] names = new string[3] {
+            //    "Tom", "Jerry", "Lewis"
+            //};
+
+
+
+
+            //int[] array = new int[5];
 
             //array[0] = 24;
             //array[1] = 3;
@@ -23,9 +38,9 @@ namespace Codeabbey.Tasks
             //array[3] = 73;
             //array[4] = 2;
 
-            for (int i = 0; i < names.Length; i++)
+            //for (int i = 0; i < names.Length; i++)
 
-                Console.WriteLine(names[i]);
+            //    Console.WriteLine(names[i]);
 
         }
     }
