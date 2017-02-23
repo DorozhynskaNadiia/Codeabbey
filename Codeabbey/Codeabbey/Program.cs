@@ -18,7 +18,9 @@ namespace Codeabbey.Tasks
             //AdvancedChars.Run();
             //SimpleArrays.Run();
             //DigitsTask.Run();
-            StudyingArray.Run();
+            //StudyingArray.Run();
+            //HomeAssignment1.Run();
+            HomeAssignment2.Run();
             Console.ReadKey();        
         }
     }

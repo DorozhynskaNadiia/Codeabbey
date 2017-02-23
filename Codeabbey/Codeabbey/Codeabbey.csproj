@@ -40,6 +40,8 @@
     <Compile Include="Tasks\AdvancedChars.cs" />
     <Compile Include="Tasks\CharsTask.cs" />
     <Compile Include="Tasks\DigitsTask.cs" />
+    <Compile Include="Tasks\HomeAssignment1.cs" />
+    <Compile Include="Tasks\HomeAssignment2.cs" />
     <Compile Include="Tasks\LoopsTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
